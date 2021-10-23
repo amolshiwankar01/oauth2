@@ -12,3 +12,9 @@
 
 # access resources
 3. curl http://localhost:9096/greeting -H "Authorization: Bearer 299ef40c-e79d-48cb-a3b4-c7b90436884d"
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+1. spring-boot-rest-oauth2-jpa-mysql-master.zip - Spring boot with Oauth2
+2. secure-spring-boot-microservice-master.zip -   Microservices with Oauth2
+3. advance-spring-boot-microservice-master.zip -  Microservices with Oauth2,Swagger
